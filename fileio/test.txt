@@ -1,0 +1,6 @@
+this is a test file for cpp learning
+the second line
+the third line
+hello world
+ok
+that's fine
